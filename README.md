@@ -1,4 +1,4 @@
-🚀 Learning Flask: Building the Web, One Route at a Time
+# 🚀 Learning Flask: Building the Web, One Route at a Time
 Welcome to my Flask learning journey! I'm diving into this framework because of its incredible balance between simplicity and power. Whether it's a small API or a large-scale application, Flask’s "plug-and-play" nature makes it a vital tool in any developer's kit.
 
 🌟 Why I’m Excited
